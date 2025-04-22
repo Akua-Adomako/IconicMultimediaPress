@@ -125,7 +125,11 @@
     }
   
     .hero-image {
-      margin-top: 30px;
+      margin-top: 60px;
+    }
+
+    .hero-image img {
+      height: 300px;
     }
   }
 
